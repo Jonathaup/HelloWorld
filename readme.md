@@ -3,7 +3,7 @@
 #Hello World Example
 
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/l_mN7HMaaC4)
 
 # Development Environment
 
